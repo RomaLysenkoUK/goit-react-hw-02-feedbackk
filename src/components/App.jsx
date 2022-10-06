@@ -44,10 +44,6 @@ export class App extends Component {
   //   }))
   // }
 
-  // clickHandler = () => {
-  //   this.setState({ isListShown: true });
-  // };
-
   // userDelete = (userId) => {
   //   this.setState(prevState => ({
   //     users: prevState.users.filter(user => user.id !== userId)
